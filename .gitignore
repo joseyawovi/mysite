@@ -393,9 +393,3 @@ cache/
 
 # File uploads from forms
 /protected/
-
-# Media files
-/media/
-
-# Collected static files
-/static/
